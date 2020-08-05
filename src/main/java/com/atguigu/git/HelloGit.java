@@ -6,4 +6,7 @@ package com.atguigu.git;
  * Desc:
  */
 public class HelloGit {
+    public static void main(String[] args) {
+
+    }
 }
